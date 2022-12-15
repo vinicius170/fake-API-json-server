@@ -1,0 +1,107 @@
+{
+    "filmes de ação":[
+        {
+            "id": 1,
+            "titulo": "Pantera Negra: Wakanda Para Sempre",
+            "ano": 2022,
+            "roteiro": "Ryan Coogler",
+            "imagem":"https://br.web.img2.acsta.net/c_310_420/pictures/22/10/21/20/01/5778952.jpg"
+            
+        },
+        {
+            "id":2,
+            "titulo": "Noite Infeliz",
+            "ano": 2022,
+            "roteiro": "Tommy Wirkola",
+            "imagem":"https://br.web.img3.acsta.net/c_310_420/pictures/22/12/06/18/01/3291011.jpg"
+
+        },
+        {
+            "id":3,
+            "titulo": "Avatar: O Caminho da Água",
+            "ano": 2022,
+            "roteiro": "James Cameron",
+            "imagem":"https://br.web.img2.acsta.net/c_310_420/pictures/22/05/09/16/16/3197518.jpg"
+
+        },
+        {
+            "id":4,
+            "titulo": "Tubarão - Mar de Sangue",
+            "ano": 2022,
+            "roteiro": "James Nunn",
+            "imagem":"https://br.web.img3.acsta.net/c_310_420/pictures/22/11/22/17/29/0692244.jpg"   
+        }
+    ],
+    "filmes de terror":[
+        {
+            "id":1,
+            "titulo": "A Maldição do Quarto 203",
+            "ano": 2022,
+            "roteiro": "Ben Jagger",
+            "imagem":"https://br.web.img3.acsta.net/c_310_420/pictures/22/11/08/15/24/3215249.png"
+
+        },
+        {
+            "id":2,
+            "titulo": "O Menu",
+            "ano": 2022,
+            "roteiro": "Mark Mylod",
+            "imagem":"https://br.web.img3.acsta.net/c_310_420/pictures/22/08/17/22/25/2724945.jpg"
+
+        },
+        {
+            "id":3,
+            "titulo": "Sorria",
+            "ano": 2022,
+            "roteiro": "Parker Finn",
+            "imagem":"https://br.web.img2.acsta.net/c_310_420/pictures/22/09/20/15/51/1507365.jpg"
+
+        },
+        {
+            "id":4,
+            "titulo": "X: A Marca da Morte",
+            "ano": 2022,
+            "roteiro": " Ti West",
+            "imagem":"https://br.web.img2.acsta.net/c_310_420/pictures/22/06/08/00/12/0256143.jpg"
+
+        }
+
+    ],
+    "filmes de animação":[
+        
+        {
+            "id":1,
+            "titulo": "Mundo Estranho",
+            "ano": 2022,
+            "roteiro": "Don Hall, Qui Nguyen",
+            "imagem": "https://br.web.img3.acsta.net/c_310_420/pictures/22/09/22/22/10/5955504.jpg" 
+        
+        },
+        {
+            "id":2,
+            "titulo": "One Piece Film - Red",
+            "ano": 2022,
+            "roteiro": "Goro Taniguchi",
+            "imagem":"https://br.web.img2.acsta.net/c_310_420/pictures/22/06/08/00/12/0256143.jpg"
+        
+        },
+        {
+            "id":3,
+            "titulo": "Jujutsu Kaisen 0: O Filme",
+            "ano": 2022,
+            "roteiro": "Sunghoo Park",
+            "imagem":"https://br.web.img3.acsta.net/c_310_420/pictures/21/10/27/11/49/5430171.jpg"
+        
+        },
+        {
+            "id":4,
+            "titulo": "Pinóquio",
+            "ano": 2022,
+            "roteiro": "Guillermo del Toro, Mark Gustafson",
+            "imagem":"https://br.web.img2.acsta.net/c_310_420/pictures/22/07/27/15/18/5452852.jpg"
+        
+        }
+            
+   ] 
+}  
+         
